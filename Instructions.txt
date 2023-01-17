@@ -1,0 +1,14 @@
+Might not work if not in windows
+
+You may have to change these steps a bit if you aren't using 1080p
+
+1. Run Program
+2. Zoom Out (Ctrl + Mousedown) Exactly 11 times (on some mice some scroll clicks don't register, make sure it actually zooms
+out 11 times)
+3. Maximize the window
+4. Press f11
+5. Press enter
+6. Zoom in to the desired size
+7. Press enter again
+
+Now the trap is set and the video will play when you press enter
