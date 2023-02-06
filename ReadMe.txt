@@ -1,4 +1,4 @@
 This is a program I found on the Internet, but I don't remember where I found it.
 I made some tweaks to the program so that it can work on my machine.
 To compile:
-g++ ASCII_Rick_Roll.cpp -o ASCII_Rick_Roll.exe -g3 -std=c++11 -I"C:\Program Files (x86)\Dev-Cpp\MinGW64\include" -I"C:\Program Files (x86)\Dev-Cpp\MinGW64\x86_64-w64-mingw32\include" -I"C:\Program Files (x86)\Dev-Cpp\MinGW64\lib\gcc\x86_64-w64-mingw32\4.9.2\include" -I"C:\Program Files (x86)\Dev-Cpp\MinGW64\lib\gcc\x86_64-w64-mingw32\4.9.2\include\c++" -L"C:\Program Files (x86)\Dev-Cpp\MinGW64\lib" -L"C:\Program Files (x86)\Dev-Cpp\MinGW64\x86_64-w64-mingw32\lib" -static-libgcc -lwinmm -g3
+g++ ASCII_Rick_Roll.cpp -o ASCII_Rick_Roll.exe -std=c++11 -lwinmm
